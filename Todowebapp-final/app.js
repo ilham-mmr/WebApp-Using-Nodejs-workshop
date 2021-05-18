@@ -53,7 +53,7 @@ app.post('/todos', function (req, res) {
         })
 });
 
-// delete product
+// delete todoitem
 app.delete('/todos/:id', function (req, res) {
     const { id } = req.params;
     Todo.findByIdAndDelete(id)
@@ -77,7 +77,7 @@ app.get('/todos/:id/edit', function (req, res) {
         });
 })
 
-//update product
+//update todoitem
 app.put('/todos/:id', function (req, res) {
     const { id } = req.params;
     const { name } = req.body;
