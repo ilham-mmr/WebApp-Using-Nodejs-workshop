@@ -1,6 +1,8 @@
 # WebApp-Using-Nodejs-workshop
 This workshop is organized by DSC UUM.
 
+[Click here to see the recording of the workshop](https://youtu.be/LAdOkBjTzT0)
+
 ![preview](https://user-images.githubusercontent.com/54584081/118590695-257c1680-b7cd-11eb-99ef-fb5d6515a1a2.gif)
 
 ## WORKSHOP MODULE
